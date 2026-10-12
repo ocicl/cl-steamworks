@@ -4,6 +4,6 @@ A bindings library for the Valve SteamWorks API.
 
 |---------+---------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/cl-steamworks.git |
-| commit  | 0538f9b                                           |
+| commit  | ef00a64                                           |
 | systems | cl-steamworks                                     |
 |---------+---------------------------------------------------| 
